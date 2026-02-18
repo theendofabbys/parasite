@@ -1,0 +1,16 @@
+# Dependências principais
+scapy==2.5.0
+requests==2.31.0
+colorama==0.4.6
+argparse==1.4.0
+socket
+threading
+random
+time
+struct
+sys
+os
+tools
+colorama
+tools
+requests
