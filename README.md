@@ -29,7 +29,7 @@ Este repositório contém uma coleção de ferramentas educacionais para estudo 
 | **Slowloris** | Ataque de conexões lentas | HTTP | 80 |
 
 ## 📁 **Estrutura do Projeto**
-dos-attack-tools/
+parasite/
 ├── main.py # Menu interativo (recomendado)
 ├── dos.py # Versão linha de comando
 ├── requirements.txt # Dependências do projeto
